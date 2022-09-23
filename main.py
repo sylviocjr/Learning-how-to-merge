@@ -12,3 +12,13 @@ Email: sylviocjr.dev@gmail.com
 Github: https://github.com/sylviocjr
 LinkedIn: https://www.linkedin.com/in/sylvio-carneiro-junior/
 '''
+
+# Version # 01 ...
+print('\n======================================')
+print('Building the version #01 of an app.')
+try:
+    print('Test OK! - Versão estável.')
+    print('======================================\n')
+except:
+    print('Test NOT OK!')
+# End of version # 01.
