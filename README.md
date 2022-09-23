@@ -14,5 +14,5 @@ environment in git/github.
 - LinkedIn: <https://www.linkedin.com/in/sylvio-carneiro-junior/>
 
 ### Tutorials:
-<https://blog.betrybe.com/git/git-flow/#1>
-<https://blog.betrybe.com/tecnologia/comandos-git/#10>
+- <https://blog.betrybe.com/git/git-flow/#1>
+- <https://blog.betrybe.com/tecnologia/comandos-git/#10>
