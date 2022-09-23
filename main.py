@@ -13,12 +13,13 @@ Github: https://github.com/sylviocjr
 LinkedIn: https://www.linkedin.com/in/sylvio-carneiro-junior/
 '''
 
-# Version # 01 ...
+# Version # 02 ...
 print('\n======================================')
-print('Building the version #01 of an app.')
+print('Building the version #02 of an app.')
 try:
-    print('Test OK! - Versão estável.')
+    print('Test OK! - Stable version.')
+    print("Don't forget to command git pull!")
     print('======================================\n')
 except:
     print('Test NOT OK!')
-# End of version # 01.
+# End of version # 02.
