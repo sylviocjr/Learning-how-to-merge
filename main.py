@@ -23,3 +23,8 @@ try:
 except:
     print('Test NOT OK!')
 # End of version # 02.
+
+# Adding a feature to this project ...
+print('\n======================================')
+print('Adding a feature to this project ...')
+print('======================================\n')
